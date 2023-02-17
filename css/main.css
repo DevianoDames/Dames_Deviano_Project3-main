@@ -23,24 +23,24 @@ p {
     flex-direction: column;
 }
 
-#box1 {
+#column1 {
     background-color: pink;
     height: 300px;
 }
 
-#box2 {
+#column2 {
     background-color: red;
     height: 300px;
 
 }
 
-#box3 {
+#column3 {
     background-color: grey;
     width: 30%;
     height: 300px;
 }
 
-#box4 {
+#column4 {
     background-color: brown;
     width: 30%;
     height: 300px;
@@ -53,25 +53,25 @@ p {
         display: flex;
         flex-direction: row;
     }
-    #box1 {
+    #column1 {
         
         background-color: blue;
         width: 25%;
     }
 
-    #box2 {
+    #column2{
         background-color:purple;
         width: 25%;
         
     }
     
-    #box3 {
+    #column3 {
         background-color: grey;
         display: block;
         width: 25%;
     }
 
-    #box4 {
+    #column4 {
         background-color: brown;
         display: block;
         width: 25%;
